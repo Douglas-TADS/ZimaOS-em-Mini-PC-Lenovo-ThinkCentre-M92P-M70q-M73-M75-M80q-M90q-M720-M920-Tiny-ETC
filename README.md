@@ -108,7 +108,7 @@ O comando lista as entradas de inicialização UEFI, os identificadores e os cam
 Com o disco e a partição EFI corretamente identificados, execute o comando abaixo adaptando os parâmetros ao seu equipamento:
 
 ```bash
-sudo efibootmgr -c -d /dev/sda -p 1 -L "ZimaOS" -l '\\EFI\\BOOT\\bootx64.efi'
+sudo efibootmgr -c -d /dev/sda -p 1 -L "ZimaOS" -l '\EFI\BOOT\bootx64.efi'
 ```
 
 Neste exemplo:
