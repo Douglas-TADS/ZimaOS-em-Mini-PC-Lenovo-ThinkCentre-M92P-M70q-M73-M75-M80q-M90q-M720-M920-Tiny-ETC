@@ -1,8 +1,8 @@
 # Correção do erro 1962 no Lenovo ThinkCentre após instalar o ZimaOS
 
-![Lenovo ThinkCentre M92p Tiny — ilustração do equipamento](imagens/lenovo-thinkcentre-m92p-tiny.svg)
+![Fotografia real do Lenovo ThinkCentre M92p Tiny](https://cdn.mjtronics.de/products/lenovo-thinkcentre-m92p-mini-i7-3770s-konfigurierbar/lenovo-m92p-tiny-ansicht-1.jpg)
 
-> **Equipamento em destaque:** Lenovo ThinkCentre M92p Tiny. Este é o mini PC usado como referência prática para documentar a recuperação da inicialização UEFI após a instalação do ZimaOS.
+ > **Equipamento em destaque:** Lenovo ThinkCentre M92p Tiny. A fotografia acima mostra o modelo real (imagem de referência de produto; não é uma fotografia do exemplar específico usado no servidor). O equipamento utilizado no projeto é um M92p Tiny com Intel Core i5-3470T.
 
 [![ZimaOS](https://img.shields.io/badge/OS-ZimaOS-1677c8?style=for-the-badge)](https://www.zimaspace.com/)
 [![Lenovo ThinkCentre](https://img.shields.io/badge/Hardware-ThinkCentre%20Tiny-cc0000?style=for-the-badge)](https://www.lenovo.com/)
@@ -23,7 +23,7 @@ O guia foi organizado para facilitar a reprodução do procedimento, com comando
 
 ## Equipamento de referência
 
-![Ilustração do Lenovo ThinkCentre M92p Tiny](imagens/lenovo-thinkcentre-m92p-tiny.svg)
+**Modelo de referência:** Lenovo ThinkCentre M92p Tiny — fotografia de produto. A configuração física pode variar conforme a versão e os módulos instalados.
 
 O **Lenovo ThinkCentre M92p Tiny** é o equipamento de referência desta documentação. A ilustração acima destaca o formato compacto da linha Tiny e identifica o modelo utilizado no projeto.
 
